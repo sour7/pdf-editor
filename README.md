@@ -32,6 +32,10 @@ Browser-based editor for **scanned / image-only PDFs**. Original pixels stay int
 └── package.json
 ```
 
+## Deploy
+
+See **[DEPLOY.md](./DEPLOY.md)** for Vercel, Netlify, and GitHub Pages (includes CI workflows under `.github/workflows/`).
+
 ## Setup
 
 ```bash
